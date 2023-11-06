@@ -39,6 +39,9 @@ This is a DevLog for A social app project for NFTs collectors built with React N
 
 ### Dev Logs
 #### Nov 6 2023
+<a href="https://drive.google.com/file/d/1acUnl2OTCq8Pd99IOwKC2oM751o_Nwhi/view?usp=drive_link" target="_blank">Full Video</a>
+
+https://github.com/WilliamYWY/MintMatch/assets/92711171/f6108a97-14e7-4921-90cf-08f0dad75e87
 
 
 
