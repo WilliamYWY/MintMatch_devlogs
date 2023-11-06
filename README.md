@@ -2,6 +2,7 @@
 
 ## Intro
 This is a DevLog for A social app project for NFTs collectors built with React Native 
+Looking forward to get any suggestion!
 
 ## Tech Stacks
 - React Native
