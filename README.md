@@ -30,6 +30,7 @@ Looking forward to get any suggestion!
 
 ### TODO
 - Card Swiping
+- Matching Algorithm
 - Chat 
 - Trade NFTs 
 - Share NFTs 
