@@ -4,6 +4,8 @@
 This is a DevLog for A social app project for NFTs collectors built with React Native.  
 Looking forward to get any suggestion!
 
+[Legacy Version](https://www.canva.com/design/DAFvV3fdaGo/a77okZsEnezx90ybP_ZwJg/view?utm_content=DAFvV3fdaGo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## Tech Stacks
 - React Native
 - JavaScript 
