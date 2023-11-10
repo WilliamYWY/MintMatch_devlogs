@@ -42,6 +42,13 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 10 2023
+
+Fixed Bugs:
+  - Deal with mislabeled image/animation URLs from data provider
+  - Optimized UX with pagination 
+
+
 #### Nov 6 2023
 <a href="https://drive.google.com/file/d/1acUnl2OTCq8Pd99IOwKC2oM751o_Nwhi/view?usp=drive_link" target="_blank">Full Video</a>
 
