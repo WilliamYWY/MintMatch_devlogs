@@ -42,6 +42,22 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 11 2023
+Progress:  
+
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/722a45a1-042b-441a-ab6a-88dc2dfbf951
+
+  - Complete the whole registration process
+  - Upload profile to Python server and store in Firebase
+  - Fetch all card stack (other users' profile from server) and render into card stack view
+  - Swipe animation
+
+To Fix:
+  - Swipe animation warning ⚠️ (Not urgent)
+  - NFT display when bad source (Urgent)
+
 #### Nov 10 2023
 
 Fixed Bugs:
