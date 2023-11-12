@@ -23,15 +23,17 @@ Looking forward to get any suggestion!
 ## Progess
 
 ### Finished
-
-### In Progress
 - Registered and Connect Wallet
   - Connect MetaMask ✅
   - Register pages and flow ✅
-  - Optimization 🛠️
+  - Upload profile to server ✅
+  - Optimization ⚒️
+### In Progress
+- Card
+  - Swiping (Animation warning) ⚒️
+  - Content (Bad source) ⚒️
 
 ### TODO
-- Card Swiping
 - Matching Algorithm
 - Chat 
 - Trade NFTs 
