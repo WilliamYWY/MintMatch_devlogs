@@ -12,8 +12,10 @@ Looking forward to get any suggestion!
 - Python
 - Google Firebase
 
-## Web3 Data Provider
-- Alchemy
+## Web3 Provider
+- [Alchemy](https://www.alchemy.com/)
+- [xmtp](https://xmtp.org/)
+- [thirdweb](https://thirdweb.com/)
 
 ## Chain
 - Eth Mainnet
@@ -32,6 +34,8 @@ Looking forward to get any suggestion!
 - Card
   - Swiping (Animation warning) ⚒️
   - Content (Bad source) ⚒️
+- Chat
+  - [xmtp](https://xmtp.org/) ⚒️
 
 ### TODO
 - Matching Algorithm
