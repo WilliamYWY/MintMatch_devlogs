@@ -48,6 +48,12 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 14 2023
+Fix:
+  - Integrated EtherJS with more functionality
+  - Track user Switch between Wallet address
+
+
 #### Nov 11 2023
 Progress:  
 
