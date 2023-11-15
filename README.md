@@ -14,8 +14,8 @@ Looking forward to get any suggestion!
 
 ## Web3 Provider
 - [Alchemy](https://www.alchemy.com/)
+- MetaMask
 - [xmtp](https://xmtp.org/)
-- [thirdweb](https://thirdweb.com/)
 
 ## Chain
 - Eth Mainnet
