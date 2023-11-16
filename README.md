@@ -48,6 +48,15 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 15 2023
+Progress:
+  - Redesign Card layout
+  - Add profile image to property
+  - Add user ID to property
+<img src="https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/a1e06dfc-4051-4dee-b371-353419d126ba" width="300" height="650">
+
+
+
 #### Nov 14 2023
 Fix:
   - Integrated EtherJS with more functionality
@@ -63,7 +72,7 @@ https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/722a45a1-042b-44
 
   - Complete the whole registration process
   - Upload profile to Python server and store in Firebase
-  - Fetch all card stack (other users' profile from server) and render into card stack view
+  - Fetch all card stack (other users' profile from server) and render into a card stack view
   - Swipe animation
 
 To Fix:
