@@ -48,6 +48,17 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 20 2023
+Progress:
+  - Finished Profile edit
+  - Integrated Jotai for state management
+
+
+<img src="https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/9c688fc4-90b0-4a93-acb4-be15eadfe874" width="300" height="650">
+<img src="https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/6961778a-0516-4304-abbf-b16df9b6fa2a" width="300" height="650">
+<img src="https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/a6565924-8d93-4790-a4a7-c44e41ac8c48" width="300" height="650">
+
+
 #### Nov 15 2023
 Progress:
   - Redesign Card layout
