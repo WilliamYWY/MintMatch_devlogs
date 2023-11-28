@@ -48,6 +48,12 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 26 2023
+Progress:
+  - Fixing bugs in profile editing
+  - Migrating scroll view to flash list
+  - Preparing for xmtp implmentation
+
 #### Nov 20 2023
 Progress:
   - Finished Profile edit
