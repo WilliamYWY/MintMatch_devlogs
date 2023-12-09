@@ -30,10 +30,10 @@ Looking forward to get any suggestion!
   - Register pages and flow ✅
   - Upload profile to server ✅
   - Optimization ⚒️
-### In Progress
 - Card
-  - Swiping (Animation warning) ⚒️
-  - Content (Bad source) ⚒️
+  - Swiping (Animation warning) ✅
+  - Content (Bad source) ✅
+### In Progress
 - Chat
   - [xmtp](https://xmtp.org/) ⚒️
 
@@ -48,6 +48,24 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 8 2023
+Progress:
+  - Dynamic source for NFT image/video 
+  - Adjusted media source request timeout to improve performance
+  - List all xmtp conversations and filter unregistered users
+  - Push the latest conversation to the top on received new message
+  - Fix bug for card swiping
+
+TODO:
+  - Add preview message and received time
+  - local cache
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/da46edb5-baf5-4022-ba9b-993debb43f6d
+
+
+
+
 #### Nov 26 2023
 Progress:
   - Fixing bugs in profile editing
