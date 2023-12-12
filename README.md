@@ -48,6 +48,16 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 11 2023
+Progress:
+  - Chat room layout
+  - Realtime message update
+  - Send text message
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/58c4c248-1f52-4dc6-8cbb-bb94ec0ab9d7
+
+
+
 #### Nov 8 2023
 Progress:
   - Dynamic source for NFT image/video 
