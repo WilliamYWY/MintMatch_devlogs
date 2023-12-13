@@ -48,6 +48,12 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 13 2023
+Progress:
+  - Migrated to tab navigation
+  - Adjusted keyboradAvoidingView with safeAreaProvider
+  - Fix bugs for chat view when users switch wallet address
+
 #### Nov 11 2023
 Progress:
   - Chat room layout
