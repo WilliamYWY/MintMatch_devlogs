@@ -53,6 +53,13 @@ Progress:
   - Migrated to tab navigation
   - Adjusted keyboradAvoidingView with safeAreaProvider
   - Fix bugs for chat view when users switch wallet address
+  - Add profile card view in the chatroom
+
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/12b3479c-7da9-46a3-bd01-c7d6d61a46c3
+
+
 
 #### Nov 11 2023
 Progress:
