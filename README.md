@@ -29,13 +29,14 @@ Looking forward to get any suggestion!
   - Connect MetaMask ✅
   - Register pages and flow ✅
   - Upload profile to server ✅
-  - Optimization ⚒️
 - Card
-  - Swiping (Animation warning) ✅
-  - Content (Bad source) ✅
+  - Swiping ✅
+  - Content ✅
 ### In Progress
 - Chat
   - [xmtp](https://xmtp.org/) ⚒️
+  - Chat  ⚒️
+  - Trade NFTs  ⚒️
 
 ### TODO
 - Matching Algorithm
