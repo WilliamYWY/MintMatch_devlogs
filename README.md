@@ -48,6 +48,20 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 17 2023
+Progress:
+  - Enable sending messages with NFT
+  - Reply NFT with text
+  - Display ownership of the NFT quoted in chats
+  - Testing smart contract transaction
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/28f0db89-184f-4bd2-aa0a-5546c00a6046
+
+
+
+
+
 #### Nov 13 2023
 Progress:
   - Migrated to tab navigation
