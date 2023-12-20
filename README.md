@@ -49,6 +49,19 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 20 2023
+Progress:
+  - View for sending Purpose
+  - Adding WebView for NFT Information
+  - Token selector
+
+TODO:
+  - Find a suitable token price API to show price preview (to USD) when typing the token amount
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/03b62fe3-47af-495d-ad55-b9cfcfaa133b
+
+
 #### Nov 17 2023
 Progress:
   - Enable sending messages with NFT
