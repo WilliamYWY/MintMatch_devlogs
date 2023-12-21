@@ -10,6 +10,7 @@ Looking forward to get any suggestion!
 - React Native
 - JavaScript 
 - Python
+- Solidity
 - Google Firebase
 
 ## Web3 Provider
