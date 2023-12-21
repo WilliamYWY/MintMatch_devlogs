@@ -49,6 +49,15 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 21 2023
+Progress:
+  - Message block for displaying Purpose
+
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/5e0ecda6-3415-4cd8-8da8-e50a69237acd
+
+
 #### Nov 20 2023
 Progress:
   - View for sending Purpose
