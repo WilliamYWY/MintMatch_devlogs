@@ -50,6 +50,12 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 25 2023
+Progress:
+  - Switch Chain
+  - Provider for read-only contract call (Metamask provider frequently needed the user to unlock the app to use eth_call, which is annoying)
+  - Check if the seller owns the NFT & check if the buyer has enough erc-20 token balance 
+
 #### Nov 21 2023
 Progress:
   - Message block for displaying Purpose
