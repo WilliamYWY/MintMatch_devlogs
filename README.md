@@ -12,6 +12,7 @@ Looking forward to get any suggestion!
 - Python
 - Solidity
 - Google Firebase
+- Amazon RDS (MySQL)
 
 ## Web3 Provider
 - [Alchemy](https://www.alchemy.com/)
@@ -50,6 +51,13 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Nov 26 2023
+Progress:
+  - The first user that accepts the purpose will sign the purpose information upload it to IPFS and then store it in the database
+  - Check if the purpose is registered
+  - Validate function which checks if the signature is legit and all the transaction information is correct and is called by the correct user.
+
+
 #### Nov 25 2023
 Progress:
   - Switch Chain
@@ -58,7 +66,7 @@ Progress:
 
 #### Nov 21 2023
 Progress:
-  - Message block for displaying Purpose
+  - Message block for displaying purpose
 
 
 
