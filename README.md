@@ -18,6 +18,8 @@ Looking forward to get any suggestion!
 - [Alchemy](https://www.alchemy.com/)
 - MetaMask
 - [xmtp](https://xmtp.org/)
+- Infura
+- Pinata IPFS
 
 ## Chain
 - Eth Mainnet
