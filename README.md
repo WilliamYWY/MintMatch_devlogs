@@ -53,6 +53,19 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Jan 1 2024
+progress:
+  - Ask for asset transfer approval from the user
+  - Update approval status to the database
+  - Testing transaction smart contract, and complete token transfer and NFT transfer. (from remix)
+
+<img src="https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/3ede6f5a-9eca-4502-9ae1-442e62593ff4" width="300" height="650">  
+
+![Screenshot 2024-01-01 at 8 46 36 PM](https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/5c25e770-2494-4fa2-97c9-e9a199ffa122)
+
+    
+
+
 #### Nov 26 2023
 Progress:
   - The first user that accepts the purpose will sign the purpose information upload it to IPFS and then store it in the database
