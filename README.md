@@ -53,8 +53,23 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Jan 2 2024
+Progress:
+  - Complete inApp trading NFT
+
+TODO:
+  - Catch bugs and fix MetaMask sdk disconnect issue (Automatically disconnected after MetaMask wallet app is locked)
+
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/3ae002fd-f9e0-4460-a02f-3e5c3717b825
+
+
+
+
+
 #### Jan 1 2024
-progress:
+Progress:
   - Ask for asset transfer approval from the user
   - Update approval status to the database
   - Testing transaction smart contract, and complete token transfer and NFT transfer. (from remix)
