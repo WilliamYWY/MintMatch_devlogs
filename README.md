@@ -53,6 +53,17 @@ Looking forward to get any suggestion!
 - Market place
 
 ## Dev Logs
+#### Jan 15 2024
+Progress:
+  - Replace inApp trading NFT with only one single transaction (remove Oracle)
+  - Fix bugs for wallet connecting and chain switching
+  - Match users and create new chat room
+
+TODO:
+  - Share arbitrary NFTs in the chat room
+
+
+
 #### Jan 2 2024
 Progress:
   - Complete inApp trading NFT
