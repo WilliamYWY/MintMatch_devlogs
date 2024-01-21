@@ -55,6 +55,20 @@ Looking forward to get any suggestion!
 ## Dev Logs
 #### Jan 15 2024
 Progress:
+  - Enable users to use NFTs on different chains to build up their profile
+  - Enable users to share owned NFTs on different chains in the chatroom
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/dce95f3f-b703-493c-be9f-e73bea3abb7e
+
+
+https://github.com/WilliamYWY/MintMatch_devlogs/assets/92711171/7cf43a45-30db-4698-bcda-a2e14c826387
+
+
+
+
+#### Jan 15 2024
+Progress:
   - Replace inApp trading NFT with only one single transaction (remove Oracle)
   - Fix bugs for wallet connecting and chain switching
   - Match users and create new chat room
