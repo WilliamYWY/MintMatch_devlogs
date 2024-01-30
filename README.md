@@ -41,6 +41,13 @@ Looking forward to get any suggestion!
   - [xmtp](https://xmtp.org/) ⚒️
   - Chat  ⚒️
   - Trade NFTs  ⚒️
+  - Allow users to add new contact ⚒️
+  - Search by user name ⚒️
+  - Swap NFTs ⚒️
+  - Search and send arbitrary NFTs ⚒️
+- Utils
+  - Scan the QRcode to add a new contact ⚒️
+  - Generate the QRcode for the wallet address ⚒️
 
 ### TODO
 - Matching Algorithm
